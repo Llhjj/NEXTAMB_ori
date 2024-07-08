@@ -1,0 +1,2 @@
+# NEXTAMB_ori
+NEXTAMB最原始的代码（2024.7.5）
